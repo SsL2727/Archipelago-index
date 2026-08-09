@@ -1,4 +1,4 @@
-name = "gnosia"
+name = "Gnosia"
 display_name = "Gnosia"
 default_url = "https://github.com/Mat8071/Gnosia-Archipelago-Randomizer/releases/download/v{{version}}/gnosia.apworld"
 
