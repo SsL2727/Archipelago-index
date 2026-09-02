@@ -1,0 +1,8 @@
+name = "Nubby's Number Factory"
+home = "https://github.com/SsL2727/nubbys-number-factory-apworld"
+default_url = "https://github.com/SsL2727/nubbys-number-factory-apworld/releases/download/v{{version}}/nubbys_number_factory.apworld"
+
+[versions]
+"1.2.0" = {}
+"1.1.0" = {}
+"1.0.0" = {}
